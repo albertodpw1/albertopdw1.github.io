@@ -1,0 +1,32 @@
+#tablacatalogo{
+    margin: 0;
+    width: 500px;
+    height: 400px;
+    background-color: #7f7bd1; 
+    margin-left: auto;
+    margin-right: auto;
+vertical-align: middle;
+border: 3px solid black;
+}
+#produc{
+    background-color: rgb(185, 243, 49);
+padding: 10px;
+margin: 100px auto;
+width: 400px;
+}
+
+#buscar{
+    background-color: rgb(218, 167, 134);
+padding: 10px;
+margin: 100px auto;
+width: 400px;
+}
+input[type=text], input[type=password]{
+    padding: 10px;
+    width: 380px;
+}
+input[type=submit], input[type=reset]{
+    border: 1;
+    background-color: rgb(140, 202, 115);
+    padding: 10px 20px;
+}
